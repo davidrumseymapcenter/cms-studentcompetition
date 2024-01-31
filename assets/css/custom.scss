@@ -2,3 +2,17 @@
 ---
 @charset "utf-8";
 // Your custom css /scss here
+body {
+    background-color: #fffaf3;
+}
+
+a {
+    color: #0078d4; /* A shade of blue for contrast */
+    text-decoration: none; /* Remove underline by default */
+    transition: color 0.3s; /* Smooth color transition on hover */
+    }
+    
+/* Hover state - color change on hover */
+a:hover {
+    color: #d83b01; /* A contrasting color, such as orange */
+}
