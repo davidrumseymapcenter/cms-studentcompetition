@@ -16,3 +16,8 @@ a {
 a:hover {
     color: #d83b01; /* A contrasting color, such as orange */
 }
+
+html body#body.d-flex.flex-column.h-entry header.d-flex.align-items-center.hero-chulapa-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.2)), url('https://davidrumseymapcenter.github.io/cms-studentcompetition/assets/img/hero.png') !important;
+}
+
