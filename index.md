@@ -24,17 +24,17 @@ This competition is open to all currently-enrolled US-based students working tow
 The competition consists of two rounds: (1) **Concept** and (2) **Proposal**.
 
 ### Concept
-Applicants submit a curatorial statement and three example map selections by April 12, 2024. Three finalists will be announced on April 26, 2024. 
+Applicants submit a curatorial statement and three example map selections by April 12, 2024. Three finalists will be announced in the David Rumsey Map Center's newsletter in early May 2024. [Sign up for the newsletter](https://stanford.us14.list-manage.com/subscribe?u=bc280d099b8c85ba9fd6e0bb0&id=3f16ea62b6). 
 
 ### Proposal
-May - August 2024: Finalists work with curatorial staff to develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November, 2024. 
+May - August 2024: Finalists work with curatorial staff to develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November 2024. 
 
 Exhibition production and installation will happen in 2025 on a mutually agreed-upon schedule.
 
 ## About the Award
 The winner of this competition will receive:
 - Installation of physical exhibition in the Rumsey Center and hosting of a digital companion exhibition linked to from [exhibits.stanford.edu](https://exhibits.stanford.edu/). 
-- A pre-tax $1,000 award and support (up to $1000) for related travel expenses.
+- A pre-tax $1,000 award and support (up to $1,000) for related travel expenses.
 - One year membership in the California Map Society.
 - Opportunities to present about the work at the annual meetings of the California Map Society.
 
