@@ -3,7 +3,7 @@ layout: default
 title: The California Map Society & David Rumsey Map Center
 header_type: hero
 header_img: /assets/img/hero.png
-subtitle: Student Exhibition Competition 2025
+subtitle: Third Annual Student Exhibition Competition
 # project_links:
 #   - url: "#call-for-entries"
 #     label: SUBMIT YOUR PROPOSAL
