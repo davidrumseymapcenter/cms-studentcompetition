@@ -3,7 +3,7 @@ layout: default
 title: The California Map Society & David Rumsey Map Center
 header_type: hero
 header_img: /assets/img/hero.png
-subtitle: Third Annual Student Exhibition Competition
+subtitle: Fourth Annual Student Exhibition Competition
 # project_links:
 #   - url: "#call-for-entries"
 #     label: SUBMIT YOUR PROPOSAL
@@ -26,11 +26,11 @@ The competition consists of two rounds: (1) **Concept** and (2) **Proposal**.
 
 ### Concept
 
-Applicants submit a curatorial statement and three example map selections by June 27, 2025. Three finalists will be announced in the David Rumsey Map Center's newsletter in early July 2025. [Sign up for the newsletter](https://stanford.us14.list-manage.com/subscribe?u=bc280d099b8c85ba9fd6e0bb0&id=3f16ea62b6).
+Applicants submit a curatorial statement and three example map selections by June 27, 2025. Three finalists will be announced in the David Rumsey Map Center's newsletter in early August 2025. [Sign up for the newsletter](https://stanford.us14.list-manage.com/subscribe?u=bc280d099b8c85ba9fd6e0bb0&id=3f16ea62b6).
 
 ### Proposal
 
-July - October 2025: Finalists develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November 2025.
+August - November 2025: Finalists develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November 2025.
 
 Exhibition production and installation will happen in spring of 2026.
 
