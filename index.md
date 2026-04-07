@@ -3,7 +3,7 @@ layout: default
 title: The California Map Society & David Rumsey Map Center
 header_type: hero
 header_img: /assets/img/hero.png
-subtitle: Fourth Annual Student Exhibition Competition
+subtitle: Fifth Annual Student Exhibition Competition
 # project_links:
 #   - url: "#call-for-entries"
 #     label: SUBMIT YOUR PROPOSAL
@@ -14,11 +14,18 @@ subtitle: Fourth Annual Student Exhibition Competition
 The California Map Society and the David Rumsey Map Center invite all US-based students of higher education to apply for an opportunity to curate an exhibition of maps from our collections based on the topic of the applicant’s choice. Proposals will be judged on the strength of the topic, the effective use of maps in support of the topic, and overall quality of research and writing.
 
 <p style="text-align: center; background-color: #fff799;
-">★★★ APPLICATION DEADLINE: June 27, 2025 at 11:59PM PST ★★★</p>
+">★★★ APPLICATION DEADLINE: June 26, 2026 at 11:59PM PST ★★★</p>
+
+## Previous Winners
+
+- [Jayne Kilander (University of Wisconsin - Milwaukee) – 2025](https://storymaps.arcgis.com/stories/c80f500487834f419489de24248913b3)
+- [Champ Turner (Brown University) – 2024](https://storymaps.arcgis.com/stories/83a42ebc28b44fe7b355532da798b938)
+- [Muhammad Dhafer (Stanford University) – 2023](https://spotlight.stanford.edu/epicenters)
+- [Arjun Maheshwari (Stanford University) – 2022](https://storymaps.arcgis.com/stories/8c147d1b7c524eca994dfdca7b093002)
 
 ## Eligibility Requirements
 
-This competition is open to all currently-enrolled US-based students working towards an undergraduate or graduate degree. Students must be enrolled at their institution through the 2025/26 academic year. Applicants are not required to have prior curatorial experience. Students from traditionally underrepresented groups in academia are strongly encouraged to apply. Finalists will work closely with Rumsey Map Center staff to realize their ideas and must be available for remote or in-person meetings.
+This competition is open to all currently-enrolled US-based students working towards an undergraduate or graduate degree. Students must be enrolled at their institution through the 2026/27 academic year. Applicants are not required to have prior curatorial experience. Students from traditionally underrepresented groups in academia are strongly encouraged to apply. Finalists will work closely with Rumsey Map Center staff to realize their ideas and must be available for remote or in-person meetings.
 
 ## Timeline
 
@@ -26,13 +33,13 @@ The competition consists of two rounds: (1) **Concept** and (2) **Proposal**.
 
 ### Concept
 
-Applicants submit a curatorial statement and three example map selections by June 27, 2025. Three finalists will be announced in the David Rumsey Map Center's newsletter in early August 2025. [Sign up for the newsletter](https://stanford.us14.list-manage.com/subscribe?u=bc280d099b8c85ba9fd6e0bb0&id=3f16ea62b6).
+Applicants submit a curatorial statement and three example map selections by June 26, 2026. Three finalists will be announced in the David Rumsey Map Center's newsletter in early August 2026. [Sign up for the newsletter](https://stanford.us14.list-manage.com/subscribe?u=bc280d099b8c85ba9fd6e0bb0&id=3f16ea62b6).
 
 ### Proposal
 
-August - November 2025: Finalists develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November 2025.
+August - November 2026: Finalists develop exhibition proposals and object lists. The winning proposal will be selected and announced in early November 2026.
 
-Exhibition production and installation will happen in spring of 2026.
+Exhibition production and installation will happen in spring of 2027.
 
 ## About the Award
 
@@ -45,12 +52,11 @@ The winner of this competition will receive:
 
 ## How to Apply
 
-Send an email to [rumseymapcenter@stanford.edu](mailto:rumseymapcenter@stanford.edu) by 11:59PM PST on June 27, 2025 using the Subject: “Exhibition Competition Submission”.
+Send an email to [rumseymapcenter@stanford.edu](mailto:rumseymapcenter@stanford.edu) by 11:59PM PST on June 26, 2026 using the Subject: “Exhibition Competition Submission”.
 
 Provide the following two documents as **PDF attachments or links to files hosted in the cloud**:
 
 1. A **cover sheet** including your
-
    - Name
    - Email address
    - College or University
