@@ -46,9 +46,9 @@ Exhibition production and installation will happen in spring of 2027.
 The winner of this competition will receive:
 
 - Installation of physical exhibition in the Rumsey Center and hosting of a digital companion exhibition.
-- A pre-tax $1,000 award and support (up to $1,000) for related travel expenses.
+- A pre-tax $1,000 award.
 - One year membership in the California Map Society.
-- Opportunities to present about the work at the annual meetings of the California Map Society.
+- Opportunity to present at the California Map Society's spring meeting, and up to $1,000 for related travel expenses.
 
 ## How to Apply
 
