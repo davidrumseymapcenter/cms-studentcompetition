@@ -73,7 +73,7 @@ Provide the following two documents as **PDF attachments or links to files hoste
 
 ## Additional Information
 
-#### How to Access our Collections Online
+### How to Access our Collections Online
 
 The David Rumsey and Stanford Libraries’ map collections may be viewed and accessed through the following links:
 
@@ -82,7 +82,7 @@ The David Rumsey and Stanford Libraries’ map collections may be viewed and acc
 
 Guides to help users search these collections can be found here: [library.stanford.edu/rumsey/research-collections/search-collection](https://library.stanford.edu/rumsey/research-collections/search-collection)
 
-#### About the Physical Exhibition
+### About the Physical Exhibition
 
 The physical exhibition will be installed in wall cases in the David Rumsey Map Center in Green Library on Stanford University's Campus. The winner will collaborate with Rumsey Center staff to produce the physical exhibition. Final exhibition materials do not need to be restricted to those in the David Rumsey Map Center or Stanford collections and may include facsimiles from other sources.
 
@@ -98,11 +98,11 @@ Dimensions of the cases:
 
 The final selection of all material will be approved by Rumsey Center curatorial staff and will depend on available space, layout constraints and other practical considerations. In some cases, facsimiles will be used in place of original materials.
 
-#### About the Digital Exhibition
+### About the Digital Exhibition
 
 The winner will collaborate with Rumsey Center staff to produce the digital exhibition using a mutually agreed-upon platform or tool.
 
-## Previous Winners
+### Previous Winners
 
 - [Jayne Kilander (University of Wisconsin - Milwaukee) – 2025](https://storymaps.arcgis.com/stories/c80f500487834f419489de24248913b3)
 - [Champ Turner (Brown University) – 2024](https://storymaps.arcgis.com/stories/83a42ebc28b44fe7b355532da798b938)
