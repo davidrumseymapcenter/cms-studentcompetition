@@ -16,13 +16,6 @@ The California Map Society and the David Rumsey Map Center invite all US-based s
 <p style="text-align: center; background-color: #fff799;
 ">★★★ APPLICATION DEADLINE: June 26, 2026 at 11:59PM PST ★★★</p>
 
-## Previous Winners
-
-- [Jayne Kilander (University of Wisconsin - Milwaukee) – 2025](https://storymaps.arcgis.com/stories/c80f500487834f419489de24248913b3)
-- [Champ Turner (Brown University) – 2024](https://storymaps.arcgis.com/stories/83a42ebc28b44fe7b355532da798b938)
-- [Muhammad Dhafer (Stanford University) – 2023](https://spotlight.stanford.edu/epicenters)
-- [Arjun Maheshwari (Stanford University) – 2022](https://storymaps.arcgis.com/stories/8c147d1b7c524eca994dfdca7b093002)
-
 ## Eligibility Requirements
 
 This competition is open to all currently-enrolled US-based students working towards an undergraduate or graduate degree. Students must be enrolled at their institution through the 2026/27 academic year. Applicants are not required to have prior curatorial experience. Students from traditionally underrepresented groups in academia are strongly encouraged to apply. Finalists will work closely with Rumsey Map Center staff to realize their ideas and must be available for remote or in-person meetings.
@@ -108,6 +101,13 @@ The final selection of all material will be approved by Rumsey Center curatorial
 #### About the Digital Exhibition
 
 The winner will collaborate with Rumsey Center staff to produce the digital exhibition using a mutually agreed-upon platform or tool.
+
+## Previous Winners
+
+- [Jayne Kilander (University of Wisconsin - Milwaukee) – 2025](https://storymaps.arcgis.com/stories/c80f500487834f419489de24248913b3)
+- [Champ Turner (Brown University) – 2024](https://storymaps.arcgis.com/stories/83a42ebc28b44fe7b355532da798b938)
+- [Muhammad Dhafer (Stanford University) – 2023](https://spotlight.stanford.edu/epicenters)
+- [Arjun Maheshwari (Stanford University) – 2022](https://storymaps.arcgis.com/stories/8c147d1b7c524eca994dfdca7b093002)
 
 # Questions?
 
