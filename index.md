@@ -18,7 +18,11 @@ The California Map Society and the David Rumsey Map Center invite all US-based s
 
 ## Eligibility Requirements
 
-This competition is open to all currently-enrolled US-based students working towards an undergraduate or graduate degree. Students must be enrolled at their institution through the 2026/27 academic year. Applicants are not required to have prior curatorial experience. Students from traditionally underrepresented groups in academia are strongly encouraged to apply. Finalists will work closely with Rumsey Map Center staff to realize their ideas and must be available for remote or in-person meetings.
+This competition is open to:
+- All currently-enrolled US-based students working towards an undergraduate or graduate degree. 
+- Students enrolled at their institution during the 2026/27 academic year.
+
+Applicants are not required to have prior curatorial experience. Students from traditionally underrepresented groups in academia are strongly encouraged to apply. Finalists will work closely with Rumsey Map Center staff to realize their ideas and must be available for remote or in-person meetings.
 
 ## Timeline
 
